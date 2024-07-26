@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Site Reliability Engineers patterns and practices
 - ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  
 -->
+- 🔭 I’m currently working on Site Reliability Engineers patterns and practices
+- ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  
