@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 -->
 - 😎 I'm Jim - a technology leader, husband, and father of two children (and 2 dogs and 2 cats)
 - 🔭 I’m currently working on Site Reliability Engineers patterns and practices
-- ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  
+- ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  I'm currently riding a sporty cruiser.
