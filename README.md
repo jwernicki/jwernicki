@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Site Reliability Engineers patterns and practices
 - ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  
 -->
-- 😎 I'm Jim - a technology leader, husband, and father of two children (and 2 dogs and 2 cats)
+- 😎 I'm Jim - Technologist, Team Builder, Innovator, Collaborator, husband, father (1 daughter, 1 son), and pet owner (2 dogs and 2 cats)
 - 🔭 I’m currently working on Site Reliability Engineers patterns and practices
 - ⚡ Fun fact: I love to try new things.  Riding motorcycles in my latest adventure.  I'm currently riding a sporty cruiser.
